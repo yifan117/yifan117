@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Yifan 👋
+
+I'm a second year student Software Engineer with 2+ years of experience in developing Object Oriented software in C++, and 8+ months of experience in Full Stack Development with Svelte (TypeScript/JavaScript, HTML, CSS/Stylus) and Rust. Based in Adelaide, South Australia. Currently seeking internship and part-time roles.
+
+Currently interning at Framework (https://framework.tools/)
 
 <!--
 **yifan117/yifan117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
