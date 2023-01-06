@@ -2,11 +2,11 @@
 
 I'm a second year student Software Engineer with 2+ years of experience in developing Object Oriented software in C++, and 8+ months of experience in Full Stack Development with Svelte (TypeScript/JavaScript, HTML, CSS/Stylus) and Rust. Based in Adelaide, South Australia. Currently seeking internship and part-time roles.
 
-Currently interning at <p><a href="https://framework.tools/">Framework</a><p>
+<p>Currently interning at <a href="https://framework.tools/" target="blank">Framework</a><p>
 
 My Socials ✍️
-<p><a href="https://www.linkedin.com/in/yifan117">LinkedIn</a><p>
-<p><a href="https://yifan-lu.com">Personal Website</a><p>
+<p><a href="https://www.linkedin.com/in/yifan117" target="blank">LinkedIn</a><p>
+<p><a href="https://yifan-lu.com" target="blank">Personal Website</a><p>
 
 
 <!--
