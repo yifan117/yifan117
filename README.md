@@ -4,6 +4,11 @@ I'm a second year student Software Engineer with 2+ years of experience in devel
 
 Currently interning at Framework (https://framework.tools/)
 
+My Socials ✍️
+LinkedIn: https://www.linkedin.com/in/yifan117
+
+<p>Visit <a href="http://www.commonmark.org">www.commonmark.org</a>.</p>
+
 <!--
 **yifan117/yifan117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
