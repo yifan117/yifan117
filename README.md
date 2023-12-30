@@ -1,8 +1,8 @@
 ### Hi, I'm Yifan 👋
 
-I'm a second year student Software Engineer with 2+ years of experience in developing Object Oriented software in C++, and 8+ months of experience in Full Stack Development with Svelte (TypeScript/JavaScript, HTML, CSS/Stylus) and Rust. Based in Adelaide, South Australia. Currently seeking internship and part-time roles.
+I'm a third year student studying Computer Science at the University of Adelaide with 3+ years of experience in developing Object Oriented software in C++, and 1+ years of experience in Full Stack Development with Svelte (TypeScript/JavaScript, HTML, CSS/Stylus), Rust, React, and Java (Springboot). Based in Adelaide, South Australia. Currently seeking internships and graduate positions.
 
-<p>Currently interning at <a href="https://framework.tools/" target="blank">Framework</a><p>
+<p>Currently interning at Fivecast<p>
 
 My Socials ✍️
 <p><a href="https://www.linkedin.com/in/yifan117" target="blank">LinkedIn</a><p>
