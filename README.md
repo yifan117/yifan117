@@ -1,28 +1,10 @@
-### Hi, I'm Yifan 👋
+# Hi, I'm Yifan Lu 👋
 
-My Socials ✍️
-<p><a href="https://www.linkedin.com/in/yifan117" target="blank">LinkedIn</a><p>
-<p><a href="https://yifan-lu.com" target="blank">Personal Website</a><p>
+I'm also known as **Yifan Qiu**. I'm a software engineer at Atlassian in Sydney, Australia, and a Computer Science graduate of the University of Adelaide.
 
+I work with React, TypeScript, Java and Spring Boot. My experience includes software engineering roles at Atlassian, Fivecast and Framework; my earlier projects include Svelte games and browser tools.
 
-<!--
-**yifan117/yifan117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-I'm a third year student studying Computer Science at the University of Adelaide with 3+ years of experience in developing Object Oriented software in C++, and 1+ years of experience in Full Stack Development with Svelte (TypeScript/JavaScript, HTML, CSS/Stylus), Rust, React, and Java (Springboot). Based in Adelaide, South Australia. Currently seeking internships and graduate positions.
-
-<p>Currently interning at Fivecast<p>
-
--->
+- [My portfolio — Yifan Lu (Yifan Qiu)](https://www.yifan-lu.com/)
+- [Engineering experience](https://www.yifan-lu.com/experience)
+- [Projects and working demos](https://www.yifan-lu.com/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/yifan117)
